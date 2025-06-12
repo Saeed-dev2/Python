@@ -221,6 +221,7 @@ Open Python-Tutorials.ipynb from the file browser.
 
 ▶️ Run Each Cell
 Use Shift + Enter to execute each cell and follow along with the code and theory.
+```
 
 ## 🧑‍💻 Author
 
