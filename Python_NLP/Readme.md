@@ -74,3 +74,9 @@ This program:
 3. Prints out a list of cleanly separated sentences.
 
 ---
+
+## 🧑‍💻 Author
+
+**Muhammad Saeed**  
+BSc Electrical Engineering    
+Expert in Python, Embedded Systems, and AI Applications
