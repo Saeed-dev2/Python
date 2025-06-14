@@ -184,4 +184,12 @@ Python-Projects-Repo/
 └── README.md  <-- [You are here]
 ```
 
+
+
+## 🧑‍💻 Author
+
+**Muhammad Saeed**  
+BSc Electrical Engineering    
+Expert in Python, Embedded Systems, and AI Applications
+
 Happy Coding! 🚀
