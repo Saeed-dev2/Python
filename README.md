@@ -256,18 +256,19 @@ Label Encoding assigns each unique category value an integer, which can introduc
 
 
 ## 📂 Folder Structure
-
 ```
 Python-Projects-Repo/
-├── Python-Tutorials/
-│   └── Python-Tutorials.ipynb
+├── Python-Basic/
+│   └── Python_Assignment_1.ipynb
 │   └── README.md
-├── Sentence-Splitter-NLTK/
-│   └── split_sentences.py
+├── Python_NLP/
+│   └── Python_NLP.ipynb
+│   └── README.md
+├── Label-Encoding-Tutorial/
+│   └── Label_Encoding.ipynb
 │   └── README.md
 └── README.md  <-- [You are here]
 ```
-
 
 
 ## 🧑‍💻 Author
