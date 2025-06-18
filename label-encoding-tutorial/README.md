@@ -4,6 +4,7 @@ This project demonstrates how to perform **label encoding** using Python in a Ju
 
 ---
 
+
 ## 📁 File Description
 
 - `Label_Encoding.ipynb`: Jupyter notebook that contains Python code for performing label encoding on a sample dataset using `pandas`.
