@@ -5,6 +5,7 @@ This Python program demonstrates how to **split a paragraph into individual sent
 
 ---
 
+
 ## 📦 Step 1: Import the NLTK Library
 
 ```python
