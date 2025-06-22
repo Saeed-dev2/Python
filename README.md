@@ -1,7 +1,6 @@
 # 🐍 Python Projects Repository
 
 Welcome to the **Python Projects Repository**! This repository hosts multiple beginner-to-intermediate level Python-based projects with well-documented code and practical demonstrations. Explore two main projects included here:
-
 ---
 
 ## 📘 Project 1: Python Tutorials with Pandas
